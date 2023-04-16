@@ -2,7 +2,7 @@
 
 As a developer, I've been keeping a close eye on the AI-powered coding assistant battle between GitHub Copilot and Amazon CodeWhisperer. These tools have revolutionized the development process, making it more efficient and enjoyable. Let's dive into the details of each and compare their pros and cons.
 
-## GitHub Copilot
+## [GitHub Copilot](https://github.com/features/copilot)
 
 Developed by GitHub and OpenAI, powered by OpenAI's Codex model
 Streamlined integration with major code editors
@@ -20,7 +20,7 @@ Large user base, over 1.2 million developers during the technical preview
 Some concerns regarding privacy and data collection
 May suggest insecure or outdated code patterns
 
-## Amazon CodeWhisperer
+## [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
 Developed by Amazon and trained on in-house and open-source code
 Focused on first-class support for AWS APIs
